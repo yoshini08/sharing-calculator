@@ -1,8 +1,8 @@
-# 💰 Python Bill Splitter
+#  sharing calculator
 
 A simple **Python script** to evenly split a bill among multiple people.
 
-## 🚀 Features
+##  Features
 
 - ✅ Takes **total bill amount** as input.
 - ✅ Allows users to **divide the bill** among a chosen number of people.
